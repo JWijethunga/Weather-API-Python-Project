@@ -17,4 +17,4 @@ This project demonstrates how to interact with the OpenWeatherMap API to retriev
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your_username/weather_api_project.git](https://github.com/your_username/weather_api_project.git)
+   git clone [https://github.com/JWijethunga/weather_api_project.git](https://github.com/JWijethunga/weather_api_project.git)
